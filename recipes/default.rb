@@ -6,3 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+
+file "/etc/motd" do
+	content "Hello Dinesh"
+end
